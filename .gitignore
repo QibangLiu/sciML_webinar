@@ -1,5 +1,6 @@
 data/**
+**/data/**
 *.slurm
-
+slurm_output/
 
 !data/README.md
