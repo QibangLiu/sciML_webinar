@@ -12,6 +12,7 @@
 4. For faster training, select **T4 GPU** under **Hardware accelerator** (Python 3->Change runtime type).
 5. Complete the **TODO** tasks, then run the cells sequentially.
 
+- **Example 1** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb)
 - **Example 2** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QibangLiu/sciML_webinar/blob/main/heat_eq_mlp.ipynb)
 - **Example 3** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QibangLiu/sciML_webinar/blob/main/heat_eq_cnn.ipynb)
 
